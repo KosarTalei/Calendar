@@ -1,21 +1,19 @@
 # Calendar
-#Final project of Fundamental of Programming 2018
+<p>Final project of Fundamental of Programming 2018</p>
 
-Implementing most of the features in Solar Hijri calendars that run on phone or computer.
+<p>Implementing most of the features in Solar Hijri calendars that run on phone or computer.</p>
+<ul>
 
+<li>Assign Events for days</li>
 
-Assign Events for days.
+<li>Move Events and assignments from one day to another</li>
 
-Move Events and assignments from one day to another.
+<li>Providing a search function to help users find content</li>
 
-Providing a search function to help users find content.
+<li>Specifying activities that have done from others</li>
 
-Specifying activities that have done from others.
+<li>Saving all data in file and reading from it every time</li>
 
-Saving informations in file and reading from it every time.
+</ul>
 
-
-Example of output have been attached.
-
-
-
+Example of output have been attached (https://github.com/KosarTalei/Calendar/blob/main/output.png).
